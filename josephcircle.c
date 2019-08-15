@@ -8,7 +8,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-// 创建结点
+// 创建结点函数
 typedef struct node{
     int num;
     struct node *next;
